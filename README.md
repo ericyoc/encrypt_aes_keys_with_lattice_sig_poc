@@ -2,6 +2,9 @@
 
 This Python code demonstrates a combination of 2D-Discrete Wavelet Transform (2D-DWT) with post-quantum cryptographic techniques, including a simulated version of the Falcon signature algorithm, for securing images.
 
+## Motivating Articles and Related Work
+Post-quantum Cryptography https://openquantumsafe.org/post-quantum-crypto.html
+
 ## Key Functionality
 
 1. **2D-DWT**: The code implements both standard and enhanced 2D-DWT to transform the input image.
