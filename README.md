@@ -6,10 +6,14 @@ This Python code demonstrates a combination of 2D-Discrete Wavelet Transform (2D
 
 Iavich, M., Kuchukhidze, T., & Bocu, R. (2023). A Post-Quantum Digital Signature Using Verkle Trees and Lattices. Symmetry, 15(12), 2165. https://www.mdpi.com/2073-8994/15/12/2165
 
-Post-quantum Cryptography https://openquantumsafe.org/post-quantum-crypto.html
-Post-quantum Cryptography NIST https://csrc.nist.gov/projects/post-quantum-cryptography
-IETF Crypto Forum (cfrg) https://datatracker.ietf.org/rg/cfrg/about/
+Post-quantum Cryptography 
+https://openquantumsafe.org/post-quantum-crypto.html
 
+Post-quantum Cryptography NIST 
+https://csrc.nist.gov/projects/post-quantum-cryptography
+
+IETF Crypto Forum (cfrg) 
+https://datatracker.ietf.org/rg/cfrg/about/
 
 ## Key Functionality
 
