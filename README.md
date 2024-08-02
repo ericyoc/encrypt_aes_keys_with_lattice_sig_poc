@@ -4,6 +4,9 @@ This Python code demonstrates a combination of 2D-Discrete Wavelet Transform (2D
 
 ## Motivating Articles and Related Work
 
+Dam, D. T., Tran, T. H., Hoang, V. P., Pham, C. K., & Hoang, T. T. (2023). A survey of post-quantum cryptography: Start of a new race. Cryptography, 7(3), 40.
+https://www.mdpi.com/2410-387X/7/3/40
+
 Iavich, M., Kuchukhidze, T., & Bocu, R. (2023). A Post-Quantum Digital Signature Using Verkle Trees and Lattices. Symmetry, 15(12), 2165. https://www.mdpi.com/2073-8994/15/12/2165
 
 Post-quantum Cryptography 
