@@ -18,6 +18,9 @@ https://csrc.nist.gov/projects/post-quantum-cryptography
 IETF Crypto Forum (cfrg) 
 https://datatracker.ietf.org/rg/cfrg/about/
 
+## Results
+![](https://github.com/ericyoc/encrypt_aes_keys_with_lattice_sig_poc/blob/main/results_image_series.jpg)
+
 ## Key Functionality
 
 1. **2D-DWT**: The code implements both standard and enhanced 2D-DWT to transform the input image.
