@@ -7,6 +7,9 @@ This Python code demonstrates a combination of 2D-Discrete Wavelet Transform (2D
 Luc, N. Q., Nguyen, T. T., Quach, D. H., Dao, T. T., & Pham, N. T. (2023). Building Applications and Developing Digital Signature Devices based on the Falcon Post-Quantum Digital Signature Scheme. Engineering, Technology & Applied Science Research, 13(2), 10401-10406.
 https://etasr.com/index.php/ETASR/article/view/5674
 
+Wang, A., Xiao, D., & Yu, Y. (2023). Lattice‐based cryptosystems in standardisation processes: A survey. IET Information Security, 17(2), 227-243.
+https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ise2.12101
+
 Dam, D. T., Tran, T. H., Hoang, V. P., Pham, C. K., & Hoang, T. T. (2023). A survey of post-quantum cryptography: Start of a new race. Cryptography, 7(3), 40.
 https://www.mdpi.com/2410-387X/7/3/40
 
